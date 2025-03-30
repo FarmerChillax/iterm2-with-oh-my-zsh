@@ -32,7 +32,7 @@ Mac系统默认使用dash作为终端，可以使用命令修改默认使用zsh�
 chsh -s /bin/zsh
 ```
 
-如果想修改回默认dash，同样使用chsh命令即可：
+如果想修改回默认bash，同样使用chsh命令即可：
 
 ```bash
 chsh -s /bin/bash
